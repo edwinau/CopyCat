@@ -1,0 +1,28 @@
+html {
+  font-family: arial;
+  font-size: 20px;
+}
+
+nav {
+  background-color: pink;
+  height: 100px;
+}
+
+nav>p{
+  color: white;
+  float: left;
+  font-weight: bold;
+  padding: 0 10px;
+}
+
+nav>p>a.links {
+  position: relative;
+  left: 400px;
+  float: left;
+  margin: 20px;
+}
+
+section.one{
+  background-color: blue;
+  height: 400px;
+}
