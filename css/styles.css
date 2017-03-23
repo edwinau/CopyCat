@@ -1,0 +1,104 @@
+html {
+  font-family: arial;
+  font-size: 20px;
+}
+
+body{
+  margin: 0px;
+}
+nav {
+  background-color: #06D6A0;
+  height: 60px;
+}
+
+nav>p{
+  color: white;
+  float: left;
+  font-weight: bold;
+  padding: 3px 0 0 20px;
+  font-size: .9em;
+}
+
+nav>p>a.links {
+  position: relative;
+  left: 300px;
+  float: left;
+  margin: 0px 20px;
+}
+
+section.one{
+  background-color: #26547C;
+  height: 350px;
+  margin: 0px 120px;
+
+}
+
+section.two{
+  box-sizing: border-box;
+  background-color: gold;
+  margin: 0px 120px;
+}
+
+h1.two{
+    display: block;
+    color: black;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    text-align: left;
+}
+
+ p.two{
+  display: block;
+  color: black;
+  margin: 0 30px ;
+  padding: 0 0 40px 0;
+  text-align: left;
+}
+
+.one img{
+  float: left;
+  width: 50%;
+}
+.kit {
+  float: left;
+}
+
+section.three{
+  box-sizing: border-box;
+  background-color: lightgrey;
+  margin: 0px 120px;
+}
+
+h1{
+  margin: 0px;
+  color: white;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.three img{
+  border: 7px solid black;
+  margin: 20px 20px 20px 20px;
+  width: 25%;
+  height: 25%;
+}
+
+
+section.four{
+  box-sizing: border-box;
+  background-color: #26547C;
+  margin: 0px 120px;
+}
+h1.four{
+  position: relative;
+  top: 20px;
+  display: inline;
+  color: red;
+  padding: 40px;
+
+ }
+ .panel{
+   text-align: center;
+   height: 70px;
+
+ }
